@@ -1,0 +1,3 @@
+{"id": 1, "name": "Pedidree", "img_path": "pedigree.jpeg", "count": 20}
+{"id": 2, "name": "Purina", "img_path": "purina.jpeg", "count": 0}
+{"id": 3, "name": "Authority, "img_path": "authority.jpeg", "count": 0}
