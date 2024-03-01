@@ -64,5 +64,5 @@ def render_login(errors=None):
 
 def render_main_screen():
     clean_screen()
-    Button(tk, text='Login', bg='blue', fg='white', command=render_login).grid(row=0, column=0)
+    Button(tk, text='Login', bg='blue', fg='white', command=render_login().grid(row=0, column=0)
     Button(tk, text='Register', bg='yellow', command=render_register).grid(row=0, column=1)
